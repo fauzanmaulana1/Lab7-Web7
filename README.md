@@ -42,7 +42,25 @@ kode seperti berikut.
 - Hasil dari Browser
 ![image](https://user-images.githubusercontent.com/101807419/169499981-b6ac5265-353a-4427-8a02-f4ee20cc65fb.png)
 
-
 ### Kondisi IF
+![image](https://user-images.githubusercontent.com/101807419/169500392-eb3d0ecd-d8fc-4ee8-ab53-9c5106c0de48.png)
+- Hasil dari Browser
+![image](https://user-images.githubusercontent.com/101807419/169500440-8cef56d1-7bec-494d-907d-deb0375d17cf.png)
 
 ### Kondisi Switch
+![image](https://user-images.githubusercontent.com/101807419/169502079-6deedf87-c9f5-4401-b179-20b265118b27.png)
+- Hasil dari Browser
+![image](https://user-images.githubusercontent.com/101807419/169502137-2669e23f-dc0e-4a2e-8397-d289652a3c00.png)
+
+### Perulangan for
+![image](https://user-images.githubusercontent.com/101807419/169503399-fde7d033-38c1-4a2c-a5c4-9f7609614e10.png)
+
+### Perulangan while
+![image](https://user-images.githubusercontent.com/101807419/169503464-ce9d247e-8f5c-4f5e-bf63-5c4b6f0eff9c.png)
+
+### Perulangan dowhile
+![image](https://user-images.githubusercontent.com/101807419/169503524-3da4fba5-adee-4f80-b932-ff0bf2dd84ec.png)
+
+- Hasil dari Browser
+![image](https://user-images.githubusercontent.com/101807419/169503616-66195f4a-2f49-41a9-8cb1-9270faac10c1.png)
+
