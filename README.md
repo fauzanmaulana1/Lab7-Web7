@@ -64,3 +64,14 @@ kode seperti berikut.
 - Hasil dari Browser
 ![image](https://user-images.githubusercontent.com/101807419/169503616-66195f4a-2f49-41a9-8cb1-9270faac10c1.png)
 
+### Pertanyaan dan Tugas
+
+- Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+
+![image](https://user-images.githubusercontent.com/101807419/169507247-2eafe267-6c6d-4ba6-a566-4bc5c8d5b9e4.png)
+![image](https://user-images.githubusercontent.com/101807419/169507315-588beaf2-2e31-4cac-85a1-e962190f61a7.png)
+![image](https://user-images.githubusercontent.com/101807419/169507353-2d67df08-1d78-488a-909d-b56a395faf97.png)
+
+
+- Hasil dari Browser
+![image](https://user-images.githubusercontent.com/101807419/169507444-8ece5186-0e58-4cf8-a38d-de5afc0d2255.png)
