@@ -40,8 +40,8 @@ kode seperti berikut.
 ### Operator
 ![image](https://user-images.githubusercontent.com/101807419/169499587-33509c40-b65f-4176-9386-417e08949b26.png)
 - Hasil dari Browser
-- 
-![image](https://user-images.githubusercontent.com/101807419/169499337-3e5f1eee-4001-4dcf-8f72-57e671e9dc5d.png)
+![image](https://user-images.githubusercontent.com/101807419/169499981-b6ac5265-353a-4427-8a02-f4ee20cc65fb.png)
+
 
 ### Kondisi IF
 
