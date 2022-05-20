@@ -23,4 +23,10 @@ kode seperti berikut.
 
 ### Variable PHP
 - Menambahkan variable pada program.
+![image](https://user-images.githubusercontent.com/101807419/169494659-cf06952f-b0cd-43a2-8621-8f3cb23f510c.png)
+- Kemudian untuk mengakses hasilnya
+![image](https://user-images.githubusercontent.com/101807419/169494970-f1d9bf2e-9797-46ed-827d-6d481843151e.png)
 
+### Predefine Variable $_GET
+![image](https://user-images.githubusercontent.com/101807419/169497183-d80e0678-73a4-4901-8cbe-af625e6b0ecc.png)
+- Kemudian untuk mengakses hasilnya
