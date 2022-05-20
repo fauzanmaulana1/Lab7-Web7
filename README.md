@@ -30,3 +30,19 @@ kode seperti berikut.
 ### Predefine Variable $_GET
 ![image](https://user-images.githubusercontent.com/101807419/169497183-d80e0678-73a4-4901-8cbe-af625e6b0ecc.png)
 - Kemudian untuk mengakses hasilnya
+![Untitled](https://user-images.githubusercontent.com/101807419/169497627-e4468231-397c-49c0-b78f-30ef5fd3895a.png)
+
+- Membuat Form Input
+![image](https://user-images.githubusercontent.com/101807419/169498405-bc4b5391-618b-4ab3-9e83-814184e7df75.png)
+-Kemudian untuk mengakses hasilnya
+![image](https://user-images.githubusercontent.com/101807419/169498630-8ec19ef4-4cad-4692-83f0-90dda4f679a8.png)
+
+### Operator
+![image](https://user-images.githubusercontent.com/101807419/169499587-33509c40-b65f-4176-9386-417e08949b26.png)
+- Hasil dari Browser
+- 
+![image](https://user-images.githubusercontent.com/101807419/169499337-3e5f1eee-4001-4dcf-8f72-57e671e9dc5d.png)
+
+### Kondisi IF
+
+### Kondisi Switch
