@@ -10,6 +10,17 @@
 - Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 ![image](https://user-images.githubusercontent.com/101807419/169492093-abeb0aa9-0c7a-4fa2-91b3-6cc21db8a03b.png)
 
+- Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: 
+![image](https://user-images.githubusercontent.com/101807419/169492330-1c6f1494-c449-49b4-ab18-63fdac91c4db.png)
 
-- Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
+### PHP Dasar
+- Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
+kode seperti berikut.
+![image](https://user-images.githubusercontent.com/101807419/169492699-e6f94c64-1fc7-42c5-b585-0d3c37ed2540.png)
+
+- Kemudian untuk mengakses hasilnya
+![image](https://user-images.githubusercontent.com/101807419/169492912-380f2013-5534-4c21-bffd-163a008cf095.png)
+
+### Variable PHP
+- Menambahkan variable pada program.
 
