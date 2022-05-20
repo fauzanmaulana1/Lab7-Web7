@@ -1,4 +1,5 @@
 # Lab7-Web7
+<img src="fauzan - Copu.JPG">
 
 ## Nama   : Fauzan Maulana
 ## NIM    : 312010115
